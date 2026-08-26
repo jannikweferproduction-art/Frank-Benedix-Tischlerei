@@ -1,0 +1,9 @@
+{
+  "name": "tischlerei-frank-benedix",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Website der Tischlerei Frank Benedix – Reparatur-Tischlerei für Fenster, Türen und Möbel, Bremen",
+  "scripts": {
+    "start": "npx --yes serve ."
+  }
+}

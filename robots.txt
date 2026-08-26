@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tischlerei-benedix.de/sitemap.xml
